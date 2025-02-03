@@ -41,8 +41,8 @@ A smart and interactive voice assistant that helps with daily tasks like answeri
 
 💡 **Contributions are welcome!** Feel free to fork and improve the project.  
 
-🔗 **Demo Video**: [If available, add a link]  
-📧 **Contact**: [Your email or social media]  
+ 
+📧 **Contact**: [neeteshk1104@gmail.com]  
 
 ---
 
