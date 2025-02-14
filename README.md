@@ -1,7 +1,4 @@
-# Net-Voice-Assistant
-
-Here's a simple README file for your voice assistant project:  
-
+# Net-Voice-Assistant... 
 ---
 
 # 🎙️ Voice Assistant  
