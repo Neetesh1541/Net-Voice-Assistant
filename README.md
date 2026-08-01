@@ -1,11 +1,11 @@
-# Net-Voice-Assistant...
+# Net-Voice-Assistant..
 ---
 
 # 🎙️ Voice Assistant  
 
 A smart and interactive voice assistant that helps with daily tasks like answering queries, opening applications, and providing real-time updates.  
 
-## ✨ Features  
+## ✨ Features - 
 ✅ Voice command recognition  
 ✅ Opens apps and websites  
 ✅ Answers general queries  
